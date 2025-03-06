@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart4
-title: JavaScript Functions
-content: >+
-  ## JavaScript Functions
+title: HTML Attributes
+content: >
+  ## HTML Attributes
 
 
   It’s great that we have a nice looking button on our page, but when you click
@@ -58,7 +58,6 @@ content: >+
 
   Nothing!  That's because we haven't defined the "ShowColor()" function.  We'll
   do that on the next page.
-
 showContent: true
 showEditor: false
 showTerminal: false
@@ -66,3 +65,5 @@ showExplorer: false
 editors:
   - type: html
     path: course1/unit1/lesson1/lessonpart4/index.html
+  - type: css
+    path: course1/unit1/lesson1/lessonpart4/styles.css
