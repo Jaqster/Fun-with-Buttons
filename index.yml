@@ -24,6 +24,7 @@ objectives: |-
 cardImageUrl: https://vscodeedu.com/assets/course-cards/card6.png
 contacts:
   - displayName: Jacqueline Russell
+    affiliation: Microsoft
     pictureUrl: https://avatars.githubusercontent.com/u/22108954?v=4
     homePageUrl: https://github.com/Jaqster
 units:
