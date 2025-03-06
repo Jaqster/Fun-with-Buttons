@@ -22,12 +22,34 @@ content: >
   this:
 
 
-  > \<tag\_name attribute=“attribute\_value”> Some stuff in here \</tag\_name>
+  > \<tag\_name **attribute=“attribute\_value”**> Some stuff in here
+  \</tag\_name>
 
 
   We are going to add the “onclick” attribute to our button element.  This will
   let us know what to do when our button is clicked.  The onclick attribute
   needs to point to a JavaScript function which will define what action to take.
+
+
+  ```
+
+  <button onclick=“doSomething()”> Press me! </button>
+
+  ```
+
+
+  In this case, let’s make our button change the background color of the page. 
+  Try copying and pasting the code below or typing the code into the index.html
+  file.  This will create for a button element with an onclick attribute that
+  points to a JavaScript function called “showColor()” and with a “Color” label
+  instead of “Press me!”.
+
+
+  ```
+
+  <button onclick=“showColor()”> Color </button>
+
+  ```
 showContent: true
 showEditor: false
 showTerminal: false
