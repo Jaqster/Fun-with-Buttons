@@ -39,10 +39,10 @@ content: >
 
 
   In this case, let’s make our button change the background color of the page. 
-  Try copying and pasting the code below or typing the code into the index.html
-  file.  This will create for a button element with an onclick attribute that
-  points to a JavaScript function called “showColor()” and with a “Color” label
-  instead of “Press me!”.
+  Try copying and pasting the code below or typing the code into the
+  ***index.html*** file replacing your current button element.  This will create
+  a button with an onclick attribute that points to a JavaScript function called
+  “showColor()” and with a “Color” label instead of “Press me!”.
 
 
   ```
@@ -54,3 +54,6 @@ showContent: true
 showEditor: false
 showTerminal: false
 showExplorer: false
+editors:
+  - type: html
+    path: course1/unit1/lesson1/lessonpart4/index.html
