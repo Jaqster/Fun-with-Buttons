@@ -28,4 +28,4 @@ content: |
 showContent: true
 showEditor: false
 showTerminal: false
-showExplorer: false
+showExplorer: true

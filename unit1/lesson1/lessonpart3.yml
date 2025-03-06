@@ -33,7 +33,21 @@ content: >
   <button> Press me! </button>
 
   ```
+
+
+  Try copying and pasting the code above or typing in the code for a button
+  element into the index.html file. &#x20;
+
+
+  Place the code between the \<div> element on the page.
+
+
+  Press the green Play button to see what your button looks like in the Preview
+  window.
 showContent: true
-showEditor: false
+showEditor: true
 showTerminal: false
 showExplorer: false
+editors:
+  - type: html
+    path: course1/unit1/lesson1/lessonpart3/index.html
