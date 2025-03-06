@@ -1,9 +1,33 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart4
 title: JavaScript Functions
-content: |+
+content: >
   ## JavaScript Functions
 
+
+  It’s great that we have a nice looking button on our page, but when you click
+  it in the Preview window, nothing happens! &#x20;
+
+
+  To add an action to our button click event, we need to define an attribute on
+  our button element. &#x20;
+
+
+  An HTML attribute is a way of describing and defining certain properties of an
+  element.  Just like adjectives like “slimy” and “bright yellow” may define a
+  noun like “slug”, attributes help to describe HTML elements on a page.
+
+
+  You can add attributes to the starting tag name in your HTML element, like
+  this:
+
+
+  \<tag\_name attribute=“doSomething()”> Some stuff in here \</button>
+
+
+  We are going to add the “onclick” attribute to our button element.  This will
+  let us know what to do when our button is clicked.  The onclick attribute
+  needs to point to a JavaScript function which will define what action to take.
 showContent: true
 showEditor: false
 showTerminal: false

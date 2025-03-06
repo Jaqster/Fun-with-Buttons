@@ -53,3 +53,5 @@ showExplorer: false
 editors:
   - type: css
     path: course1/unit1/lesson1/lessonpart6/styles.css
+  - type: html
+    path: course1/unit1/lesson1/lessonpart6/index.html
