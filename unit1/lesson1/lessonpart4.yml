@@ -22,7 +22,7 @@ content: >
   this:
 
 
-  \<tag\_name attribute=“attribute\_value”> Some stuff in here \</tag\_name>
+  > \<tag\_name attribute=“attribute\_value”> Some stuff in here \</tag\_name>
 
 
   We are going to add the “onclick” attribute to our button element.  This will
