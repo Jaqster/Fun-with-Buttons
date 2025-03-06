@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart4
 title: JavaScript Functions
-content: >
+content: >+
   ## JavaScript Functions
 
 
@@ -50,6 +50,15 @@ content: >
   <button onclick=“showColor()”> Color </button>
 
   ```
+
+
+  Press the green Play button to see how your button appears in the Preview
+  window.  What happens when you click on it?
+
+
+  Nothing!  That's because we haven't defined the "ShowColor()" function.  We'll
+  do that on the next page.
+
 showContent: true
 showEditor: false
 showTerminal: false
