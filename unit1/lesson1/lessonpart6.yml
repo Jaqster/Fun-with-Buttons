@@ -8,7 +8,9 @@ content: |
 
   Cascading style sheets are files which have specific design and formatting information that control how your HTML pages are displayed.  The name of these files end in .css and use a particular language syntax that defines how certain elements of your HTML pages will look.
 
-  You can define a set of properties for each HTML element by grouping them together using curly braces { } and listing the property name, semi-colon : property value.  Like this:
+  You can define a set of properties for each HTML element by grouping them together using curly braces { } and listing the property name, colon : , property value, semi-colon ; &#x20;
+
+  Like this:
 
   ```
   h1 {
@@ -43,11 +45,9 @@ content: |
 
   When you are happy with the design of your button, go to the next page.
 
-
-
   &#x20;
 showContent: true
-showEditor: true
+showEditor: false
 showTerminal: false
 showExplorer: false
 editors:
