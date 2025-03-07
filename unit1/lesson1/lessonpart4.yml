@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart4
 title: HTML Attributes
-content: >
+content: >+
   ## HTML Attributes
 
 
@@ -58,6 +58,12 @@ content: >
 
   Nothing!  That's because we haven't defined the "ShowColor()" function.  We'll
   do that on the next page.
+
+
+
+
+  ### < Insert Check your Understanding questions here >
+
 showContent: true
 showEditor: false
 showTerminal: false
