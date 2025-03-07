@@ -28,6 +28,17 @@ content: >
   > \<tag\_name> Some stuff in here \</tag\_name>
 
 
+  Note that some elements don’t support putting content between the start and
+  end tags.  In this case, you don’t have to include the end tag.  Some examples
+  of this are:
+
+
+  \<br> the line break element
+
+
+  \<img> the image element
+
+
   Button elements look like:
 
 
@@ -39,7 +50,7 @@ content: >
 
 
   Try copying and pasting the code above or typing in the code for a button
-  element into the index.html file. &#x20;
+  element into the ***index.html*** file. &#x20;
 
 
   Place the code between the \<div> element on the page.
@@ -48,7 +59,7 @@ content: >
   Press the green Play button to see what your button looks like in the Preview
   window.
 showContent: true
-showEditor: true
+showEditor: false
 showTerminal: false
 showExplorer: false
 editors:
