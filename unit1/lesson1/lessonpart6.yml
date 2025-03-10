@@ -46,3 +46,6 @@ content: |
   When you are happy with the design of your button, go to the next page.
 
   &#x20;
+editors:
+  - course1/unit1/lesson1/lessonpart6/index.html
+  - course1/unit1/lesson1/lessonpart6/styles.css
