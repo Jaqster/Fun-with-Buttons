@@ -58,10 +58,6 @@ content: >
 
   Press the green Play button to see what your button looks like in the Preview
   window.
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false
+showEditor: true
 editors:
-  - type: html
-    path: course1/unit1/lesson1/lessonpart3/index.html
+  - course1/unit1/lesson1/lessonpart3/index.html

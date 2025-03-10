@@ -64,12 +64,3 @@ content: >+
 
   ### < Insert Check your Understanding questions here >
 
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false
-editors:
-  - type: html
-    path: course1/unit1/lesson1/lessonpart4/index.html
-  - type: css
-    path: course1/unit1/lesson1/lessonpart4/styles.css

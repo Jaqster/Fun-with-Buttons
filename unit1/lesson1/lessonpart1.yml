@@ -25,7 +25,4 @@ content: |
   * Playing a video
   * Downloading a file
   * Signing into an account
-showContent: true
-showEditor: false
-showTerminal: false
 showExplorer: true

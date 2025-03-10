@@ -53,92 +53,12 @@ files:
 
       \        <div>\r
 
-      \            \r
+      \            asdfsdaf\r
 
       \        </div>\r
 
       \    </body>\r
 
       </html>"
-  - path: course1/unit1/lesson1/lessonpart6/index.html
-    content: "<!DOCTYPE html>\r
-
-      \r
-
-      <html>\r
-
-      \    <head>\r
-
-      \        <title>Fun with Buttons!</title>\r
-
-      \        <link rel=\"stylesheet\" href=\"styles.css\" />\r
-
-      \        <script type=\"text/javascript\" src=\"script.js\"></script>\r
-
-      \    </head>\r
-
-      \r
-
-      \    <body>\r
-
-      \        <h1>Fun with Buttons!</h1>\r
-
-      \        <div>\r
-
-      \            <button> Press me! </button>\r
-
-      \        </div>\r
-
-      \    </body>\r
-
-      </html>"
-  - path: course1/unit1/lesson1/lessonpart4/index.html
-    content: "<!DOCTYPE html>\r
-
-      \r
-
-      <html>\r
-
-      \    <head>\r
-
-      \        <title>Fun with Buttons!</title>\r
-
-      \        <link rel=\"stylesheet\" href=\"styles.css\" />\r
-
-      \        <script type=\"text/javascript\" src=\"script.js\"></script>\r
-
-      \    </head>\r
-
-      \r
-
-      \    <body>\r
-
-      \        <h1>Fun with Buttons!</h1>\r
-
-      \        <div>\r
-
-      \            <button> Press me! </button>\r
-
-      \        </div>\r
-
-      \    </body>\r
-
-      </html>"
-  - path: course1/unit1/lesson1/lessonpart4/styles.css
-    content: "button {\r
-
-      \    background-color: lightgray;\r
-
-      \    padding: 10px;\r
-
-      \    border: solid;\r
-
-      \    border-radius: 10px;\r
-
-      \    cursor: pointer;\r
-
-      \    font-size: large;\r
-
-      }"
 units:
   - unit1/index.yml
